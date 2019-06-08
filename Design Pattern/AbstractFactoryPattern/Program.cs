@@ -7,6 +7,8 @@ namespace AbstractFactoryPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("--------------------AbstractFactoryPattern--------------------");
+            Console.WriteLine("");
 
             //初始化红旗汽车工厂
             var hongQiCarFactory = new HongQiCarFactory.HongQiCarFactory();

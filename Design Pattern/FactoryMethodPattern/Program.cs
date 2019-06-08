@@ -9,6 +9,8 @@ namespace FactoryMethodPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("--------------------FactoryMethodPattern--------------------");
+            Console.WriteLine("");
 
             #region 简单工厂
             var food1 = FoodSimpleFactory.CreateFood("西红柿炒蛋");

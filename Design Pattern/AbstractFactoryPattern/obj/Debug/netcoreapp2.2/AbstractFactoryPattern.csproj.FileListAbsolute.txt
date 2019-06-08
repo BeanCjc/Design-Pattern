@@ -8,3 +8,4 @@ D:\Study\Design Pattern\Design Pattern\AbstractFactoryPattern\obj\Debug\netcorea
 D:\Study\Design Pattern\Design Pattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.2\AbstractFactoryPattern.AssemblyInfo.cs
 D:\Study\Design Pattern\Design Pattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.2\AbstractFactoryPattern.dll
 D:\Study\Design Pattern\Design Pattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.2\AbstractFactoryPattern.pdb
+D:\Study\Design Pattern\Design Pattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.2\AbstractFactoryPattern.csprojAssemblyReference.cache
