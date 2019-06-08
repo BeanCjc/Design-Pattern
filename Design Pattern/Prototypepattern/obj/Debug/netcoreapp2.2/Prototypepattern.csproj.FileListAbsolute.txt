@@ -1,0 +1,10 @@
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\bin\Debug\netcoreapp2.2\Prototypepattern.deps.json
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\bin\Debug\netcoreapp2.2\Prototypepattern.runtimeconfig.json
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\bin\Debug\netcoreapp2.2\Prototypepattern.runtimeconfig.dev.json
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\bin\Debug\netcoreapp2.2\Prototypepattern.dll
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\bin\Debug\netcoreapp2.2\Prototypepattern.pdb
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\obj\Debug\netcoreapp2.2\Prototypepattern.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\obj\Debug\netcoreapp2.2\Prototypepattern.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\obj\Debug\netcoreapp2.2\Prototypepattern.AssemblyInfo.cs
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\obj\Debug\netcoreapp2.2\Prototypepattern.dll
+D:\Study\Design Pattern\Design Pattern\Prototypepattern\obj\Debug\netcoreapp2.2\Prototypepattern.pdb
