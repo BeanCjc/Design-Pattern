@@ -1,0 +1,11 @@
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.deps.json
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.runtimeconfig.json
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.runtimeconfig.dev.json
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.dll
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\bin\Debug\netcoreapp2.2\AdapterPattern.pdb
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.AssemblyInfo.cs
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.dll
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.pdb
+D:\Study\Design Pattern\Design Pattern\AdapterPattern\obj\Debug\netcoreapp2.2\AdapterPattern.csprojAssemblyReference.cache
