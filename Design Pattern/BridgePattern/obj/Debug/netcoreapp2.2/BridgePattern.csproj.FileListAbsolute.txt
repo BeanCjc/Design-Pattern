@@ -1,0 +1,11 @@
+D:\Study\Design Pattern\Design Pattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.deps.json
+D:\Study\Design Pattern\Design Pattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.runtimeconfig.json
+D:\Study\Design Pattern\Design Pattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.runtimeconfig.dev.json
+D:\Study\Design Pattern\Design Pattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.dll
+D:\Study\Design Pattern\Design Pattern\BridgePattern\bin\Debug\netcoreapp2.2\BridgePattern.pdb
+D:\Study\Design Pattern\Design Pattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Design Pattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Design Pattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.AssemblyInfo.cs
+D:\Study\Design Pattern\Design Pattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.dll
+D:\Study\Design Pattern\Design Pattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.pdb
+D:\Study\Design Pattern\Design Pattern\BridgePattern\obj\Debug\netcoreapp2.2\BridgePattern.csprojAssemblyReference.cache
