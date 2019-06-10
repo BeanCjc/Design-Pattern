@@ -1,0 +1,9 @@
+﻿目的:
+	动态的给一个对象增加一些额外的职责或行为
+优点:
+	把抽象接口与其实现解耦
+	抽象和实现可以独立扩展,不会影响到对方
+	实现细节对客户端透明,隐藏了具体的实现细节
+缺点:
+	增加了系统的复杂度
+.Net中Stream就是一个抽象构建角色或者叫待装饰的对象(House),FileStream、NetStream、MemoryStream都是具体构建角色(PatrickBeanHouse),BufferedStream、CryptoStream就是具体装饰角色(SecurityDecorator)
