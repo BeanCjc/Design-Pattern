@@ -1,0 +1,10 @@
+D:\Study\Design Pattern\Design Pattern\FacadePattern\bin\Debug\netcoreapp2.2\FacadePattern.deps.json
+D:\Study\Design Pattern\Design Pattern\FacadePattern\bin\Debug\netcoreapp2.2\FacadePattern.runtimeconfig.json
+D:\Study\Design Pattern\Design Pattern\FacadePattern\bin\Debug\netcoreapp2.2\FacadePattern.runtimeconfig.dev.json
+D:\Study\Design Pattern\Design Pattern\FacadePattern\bin\Debug\netcoreapp2.2\FacadePattern.dll
+D:\Study\Design Pattern\Design Pattern\FacadePattern\bin\Debug\netcoreapp2.2\FacadePattern.pdb
+D:\Study\Design Pattern\Design Pattern\FacadePattern\obj\Debug\netcoreapp2.2\FacadePattern.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Design Pattern\FacadePattern\obj\Debug\netcoreapp2.2\FacadePattern.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Design Pattern\FacadePattern\obj\Debug\netcoreapp2.2\FacadePattern.AssemblyInfo.cs
+D:\Study\Design Pattern\Design Pattern\FacadePattern\obj\Debug\netcoreapp2.2\FacadePattern.dll
+D:\Study\Design Pattern\Design Pattern\FacadePattern\obj\Debug\netcoreapp2.2\FacadePattern.pdb
