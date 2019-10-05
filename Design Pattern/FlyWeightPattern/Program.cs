@@ -7,7 +7,7 @@ namespace FlyweightPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("--------------------FlyWeightPattern--------------------");
+            Console.WriteLine("--------------------FlyweightPattern--------------------");
             Console.WriteLine();
             var factory = new SoldierFactory();
             var ak47 = new AK47();
