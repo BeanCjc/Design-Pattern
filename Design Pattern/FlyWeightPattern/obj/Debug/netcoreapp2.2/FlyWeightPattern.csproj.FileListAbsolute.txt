@@ -1,0 +1,11 @@
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\bin\Debug\netcoreapp2.2\FlyWeightPattern.deps.json
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\bin\Debug\netcoreapp2.2\FlyWeightPattern.runtimeconfig.json
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\bin\Debug\netcoreapp2.2\FlyWeightPattern.runtimeconfig.dev.json
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\bin\Debug\netcoreapp2.2\FlyWeightPattern.dll
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\bin\Debug\netcoreapp2.2\FlyWeightPattern.pdb
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\obj\Debug\netcoreapp2.2\FlyWeightPattern.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\obj\Debug\netcoreapp2.2\FlyWeightPattern.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\obj\Debug\netcoreapp2.2\FlyWeightPattern.AssemblyInfo.cs
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\obj\Debug\netcoreapp2.2\FlyWeightPattern.dll
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\obj\Debug\netcoreapp2.2\FlyWeightPattern.pdb
+D:\Study\Design Pattern\Design Pattern\FlyWeightPattern\obj\Debug\netcoreapp2.2\FlyweightPattern.csprojAssemblyReference.cache

@@ -7,11 +7,12 @@ namespace FacadePattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("--------------------CompositePattern--------------------");
+            Console.WriteLine("--------------------FacadePattern--------------------");
             Console.WriteLine();
             var facade = new SystemFacade();
             facade.Buy();
             Console.ReadKey();
+
         }
     }
 }
