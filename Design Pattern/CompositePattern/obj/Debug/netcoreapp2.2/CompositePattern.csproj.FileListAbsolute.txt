@@ -8,3 +8,4 @@ D:\Study\Design Pattern\Design Pattern\CompositePattern\obj\Debug\netcoreapp2.2\
 D:\Study\Design Pattern\Design Pattern\CompositePattern\obj\Debug\netcoreapp2.2\CompositePattern.AssemblyInfo.cs
 D:\Study\Design Pattern\Design Pattern\CompositePattern\obj\Debug\netcoreapp2.2\CompositePattern.dll
 D:\Study\Design Pattern\Design Pattern\CompositePattern\obj\Debug\netcoreapp2.2\CompositePattern.pdb
+D:\Study\Design Pattern\Design Pattern\CompositePattern\obj\Debug\netcoreapp2.2\CompositePattern.csprojAssemblyReference.cache
