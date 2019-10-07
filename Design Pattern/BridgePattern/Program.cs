@@ -7,7 +7,7 @@ namespace BridgePattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("--------------------BtidgePattern--------------------");
+            Console.WriteLine("--------------------BridgePattern--------------------");
             Console.WriteLine();
 
             //平台和数据库版本是两个完全不同的维度,平台维度作为数据库的一个成员

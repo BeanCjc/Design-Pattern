@@ -7,7 +7,7 @@ namespace StrategyPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("--------------------DediatorPattern--------------------");
+            Console.WriteLine("--------------------StrategyPattern--------------------");
             Console.WriteLine();
             Strategy strategyA = new ConcreteStrategyA();
             Strategy strategyB = new ConcreteStrategyB();

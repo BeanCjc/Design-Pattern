@@ -7,7 +7,7 @@ namespace StatePattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("--------------------DediatorPattern--------------------");
+            Console.WriteLine("--------------------StatePattern--------------------");
             Console.WriteLine();
             var context = new Context();
             context.Minute = 10;

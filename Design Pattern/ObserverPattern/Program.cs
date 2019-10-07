@@ -7,7 +7,7 @@ namespace ObserverPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("--------------------CommandPattern--------------------");
+            Console.WriteLine("--------------------ObserverPattern--------------------");
             Console.WriteLine();
             Subject subject1 = new ConcreteSubject("我是订阅号1");
             Subject subject2 = new ConcreteSubject("我是订阅号2");

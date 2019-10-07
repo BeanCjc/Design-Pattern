@@ -7,7 +7,7 @@ namespace IteratorPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("--------------------CommandPattern--------------------");
+            Console.WriteLine("--------------------IteratorPattern--------------------");
             Console.WriteLine();
             IIterator iterator;
             var concreteAggregate = new ConcreteAggregate();
